@@ -14,11 +14,71 @@
 
 ###  Chapter Summary
 
-## Chapter 3 - Industrializing Networks
+## Chapter 3 - Deployment  and Design Considerations
+
+### Initial Configuration
+
+### Deployment  F5 with Apache HTTP
+
+#### Configure Nodes
+
+#### Configure Pools
+
+#### Configure Nodes
+
+#### Configure SSL
+
+#### Configure Virtual Server
+
+#### Configure Monitor
+
+#### Configure iRule
+
+#### Configure with iApp
+
+### Deployment  F5 with Apache Tomcat
+
+#### Configure Nodes
+
+#### Configure Pools
+
+#### Configure Nodes
+
+#### Configure SSL
+
+#### Configure Virtual Server
+
+#### Configure Monitor
+
+#### Configure iRule
+
+#### Configure with iApp
+
+### Deployment  F5 with Office365
+
+#### Configure Nodes
+
+#### Configure Pools
+
+#### Configure Nodes
+
+#### Configure SSL
+
+#### Configure Virtual Server
+
+#### Configure Monitor
+
+#### Configure iRule
+
+#### Configure with iApp
 
 ###  Chapter Summary
 
 ##  Chapter 4 - Industrializing Networks
+
+###  Automating IT  Pre-Provisioned Networks
+
+###  Example of an Automated  Network Topology
 
 ###  Chapter Summary
 
